@@ -26,3 +26,4 @@ yarn-error.log*
 
 # macOS system files
 .DS_Store
+.vercel
